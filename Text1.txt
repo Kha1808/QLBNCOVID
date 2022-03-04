@@ -11,4 +11,6 @@ Các triệu chứng:
 9.Ngạt mũi hoặc chảy nước mũi
 10.Buồn nôn hoặc nôn mửa
 11. Tiêu chảy
+<<<<<<< HEAD
 12. dau moi vai gay 222
+
