@@ -8,6 +8,10 @@ Các triệu chứng:
 6.Đau đầu
 7.Mới mất vị giác hoặc khứu giác
 8.Đau họng
+<<<<<<< HEAD
 9.Ngạt mũi hoặc chảy nước mũi 1khahah
 10.Buồn nôn hoặc nôn mửa
 11.Tiêu chảy33333
+9.Ngạt mũi hoặc chảy nước mũi 
+10.Buồn nôn hoặc nôn mử
+11.Tiêu chảy33
